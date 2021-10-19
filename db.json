@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 8,
+      "title": "user-8",
+      "body": "user-8"
+    },
+    {
+      "title": "312",
+      "body": "312",
+      "id": 11
+    },
+    {
+      "title": "Old post",
+      "body": "New post",
+      "id": 12
+    },
+    {
+      "title": "Привет",
+      "body": "Привет",
+      "id": 13
+    },
+    {
+      "title": "Как дела",
+      "body": "Как дела",
+      "id": 14
+    },
+    {
+      "title": "Новая запись",
+      "body": "Новая запись",
+      "id": 15
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
